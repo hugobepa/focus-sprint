@@ -1,0 +1,5 @@
+numpy
+soundfile
+pygame
+binaural-generator
+focuscli
